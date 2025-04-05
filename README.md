@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there, I'm Santoshkumar!
 
-<!--
-**SantoshKumar-Chougala/SantoshKumar-Chougala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Java Backend Developer  
+🌱 Currently learning: Spring Boot, Spring Security  
+📌 Projects: Weather Podcast App, Job Portal  
+🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Weather Podcast](https://github.com/your-weather-repo)
+- [Job Portal](https://github.com/your-jobportal-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 📍 Location: Bangalore, India
+- 📧 Email: skumarchougala@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/santoshkumar-chougala-a81994262)
