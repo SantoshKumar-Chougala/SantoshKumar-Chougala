@@ -3,7 +3,7 @@
 🎓 MCA Student | 💻 Java Backend Developer  
 🌱 Currently learning: Spring Boot, Spring Security  
 📌 Projects: Weather Podcast App, Job Portal  
-🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS
+🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS, Spring-Data-JPA, Spring-JDBC
 
 ## 🚀 Projects
 - [Weather Podcast](https://github.com/your-weather-repo)
