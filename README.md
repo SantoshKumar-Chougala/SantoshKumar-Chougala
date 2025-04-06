@@ -6,7 +6,7 @@
 🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS, Spring-Data-JPA, Spring-JDBC
 
 ## 🚀 Projects
-- [Weather Podcast](https://github.com/your-weather-repo)
+- [Weather Podcast](https://github.com/SantoshKumar-Chougala/weather-podcast.git)
 - [Job Portal](https://github.com/your-jobportal-repo)
 
 ## 📫 Let's Connect
