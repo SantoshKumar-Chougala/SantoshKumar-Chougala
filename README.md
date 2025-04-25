@@ -2,8 +2,8 @@
 
 🎓 MCA Student | 💻 Java Backend Developer  
 🌱 Currently learning: Spring Boot, Spring Security  
-📌 Projects: Weather Podcast App, Job Portal  
-🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS, Spring-Data-JPA, Spring-JDBC
+📌 Projects: Weather Podcast App, Job Portal, E-Commerce Web-App
+🔧 Tech Stack: Java, Spring Boot, MySQL, JDBC, JSP, HTML, CSS, Spring-Data-JPA, Spring-JDBC, Spring-MVC, Spring-JDBC, 
 
 ## 🚀 Projects
 - [Weather Podcast](https://github.com/SantoshKumar-Chougala/weather-podcast.git)
